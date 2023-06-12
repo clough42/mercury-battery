@@ -691,7 +691,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 73.66 82.55 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 29693328-880b-4bd1-8ad7-026608689682)
     (property "Reference" "J1" (at 71.12 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
